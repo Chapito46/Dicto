@@ -1,5 +1,6 @@
 # Dicto
-French version
+[French version](README.md)
+
 Dicto is a dictation application to help students learn spelling
 It was first published in the end of 2017, when I was 10 years old
 This repo is used as an archive for the project as I lost the source code when I changed my computer
